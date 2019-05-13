@@ -6,56 +6,114 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Apr 2019 19:50:39 -0300</pubDate>
-    <lastBuildDate>Tue, 30 Apr 2019 19:50:39 -0300</lastBuildDate>
+    <pubDate>Mon, 13 May 2019 19:30:00 -0300</pubDate>
+    <lastBuildDate>Mon, 13 May 2019 19:30:00 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Deep Inside</title>
+        <description>&lt;p&gt;The light of my life&lt;br /&gt;
+From me taken away&lt;br /&gt;
+In a blink of an eye&lt;br /&gt;
+Has destroyed my day&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;A month, or many to come&lt;br /&gt;
+In a day that never ends&lt;br /&gt;
+It broke me in the core&lt;br /&gt;
+In a way I never felt before&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;The struggle is real&lt;br /&gt;
+Mind fighting the heart&lt;br /&gt;
+Will I go mad&lt;br /&gt;
+Just because we depart?&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;I walk wn a road alone&lt;br /&gt;
+Drowning in my fears&lt;br /&gt;
+Isolated from the world within my mind&lt;br /&gt;
+This has been one of the darkest places of the earth&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&quot;/assets/deepinside.jpeg&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 01 Sep 2016 07:11:11 -0300</pubDate>
-        <link>http://localhost:4000/2016/09/01/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/09/01/welcome-to-jekyll.html</guid>
+        <pubDate>Mon, 13 May 2019 16:20:54 -0300</pubDate>
+        <link>http://localhost:4000/2019/05/13/deep-inside.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/05/13/deep-inside.html</guid>
         
         
       </item>
     
       <item>
-        <title>Bacon ipsum</title>
-        <description>&lt;p&gt;Bacon ipsum dolor amet fatback biltong cow kielbasa. Ground &lt;em&gt;round&lt;/em&gt; jowl picanha &lt;strong&gt;short ribs&lt;/strong&gt;, short loin shoulder flank ham hock. Fatback pork shoulder, frankfurter kevin spare ribs alcatra shank picanha ball tip.&lt;/p&gt;
+        <title>Rainy Days</title>
+        <description>&lt;p&gt;Vou ao teu encontro&lt;br /&gt;
+Vejo outros fugindo&lt;br /&gt;
+Caos e calmaria&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;h2 id=&quot;capicola-leberkas-fatback-kielbasa-strip-steak&quot;&gt;Capicola leberkas fatback, kielbasa strip steak.&lt;/h2&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Sinto teu cheiro&lt;br /&gt;
+Teu toque frio&lt;br /&gt;
+Deslizando em minha pele quente&lt;/p&gt;
 
-&lt;p&gt;Chicken biltong ribeye, pig cupim filet mignon sausage.&lt;/p&gt;
+&lt;p&gt;Sinto o arrepio&lt;br /&gt;
+Me toma para ti&lt;br /&gt;
+Me faz admirar o momento&lt;/p&gt;
 
-&lt;figure&gt;
-	&lt;img src=&quot;/assets/earth.jpg&quot; alt=&quot;image&quot; /&gt;
-	&lt;figcaption&gt;
-		There is nothing on this earth more to be prized than true friendship.
-	&lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;p&gt;Contemplando tua beleza&lt;br /&gt;
+Te olhando de baixo&lt;br /&gt;
+Peço que o momento não finde&lt;/p&gt;
 
-&lt;p&gt;Swine brisket tongue pork cow pork loin beef ribs turkey flank rump strip steak.&lt;/p&gt;
+&lt;p&gt;Quero que me acompanhe a noite&lt;br /&gt;
+Quero acordar ouvindo tua voz&lt;br /&gt;
+Quero que continue a chover&lt;/p&gt;
+
 </description>
-        <pubDate>Sat, 20 Aug 2016 07:11:11 -0300</pubDate>
-        <link>http://localhost:4000/2016/08/20/bacon-ipsum.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/08/20/bacon-ipsum.html</guid>
+        <pubDate>Fri, 10 May 2019 11:20:09 -0300</pubDate>
+        <link>http://localhost:4000/2019/05/10/rainy-days.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/05/10/rainy-days.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>It's all about philosophies</title>
+        <description>&lt;p&gt;Com toda a superficialidade e negativismo que vivemos, rodeado por cobranças e prazos: um homem dorme de pé no trem, vindo de seu segundo emprego; outro olha pro relógio três vezes por minuto, preocupado com o fato de estar atrasasdo;  a garota olha para o celular, esperando a mensagem que não vai chegar.&lt;br /&gt;
+Em comum entre eles, há a esperança, de no fim, as coisas darem certo. E é isso que os Islandeses querem dizem com:  &lt;strong&gt;&lt;em&gt;petta reddast&lt;/em&gt;&lt;/strong&gt; a frase que é considerada filosofia de vida por muitos islandeses. 
+Em uma adaptação ao português, &lt;strong&gt;&lt;em&gt;petta reddast&lt;/em&gt;&lt;/strong&gt;  signficaria: &lt;br /&gt;
+“&lt;em&gt;Não se preocupe, tudo vai dar certo no final&lt;/em&gt;”, ou algo como “&lt;em&gt;O universo vai trabalhar para que de certo no final&lt;/em&gt;”.&lt;br /&gt;
+O que de certa forma é irônico, considerando que esse tipo de otimisto é muito comum em pessoas religiosas e em 2011 mais de 60% dos islandeses não consideravam a religião como algo importante em suas vidas diárias. 
+Por que somos tão negativos? Qual o motivo de não conseguirmos confiar em nós mesmos? Por que temer tanto sair da nossa zona de segurança?
+A resposta pra isso?  &lt;strong&gt;&lt;em&gt;petta reddast&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Apr 2019 16:29:17 -0300</pubDate>
+        <link>http://localhost:4000/2019/04/30/Its-all-about-philosophies.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/30/Its-all-about-philosophies.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Rotina</title>
+        <description>&lt;p&gt;A semana é cheia&lt;br /&gt;
+Corremos de um lado a outro&lt;br /&gt;
+Mas no fim do dia&lt;br /&gt;
+O coração é vazio sem ela&lt;/p&gt;
+
+&lt;p&gt;A semana chega ao fim&lt;br /&gt;
+A ansiedade aumenta&lt;br /&gt;
+A sensação piora&lt;br /&gt;
+Enquanto não a tenho pra mim&lt;/p&gt;
+
+&lt;p&gt;E quando à vejo tão bela &lt;br /&gt;
+A vida escura&lt;br /&gt;
+É iluminada pelo sorriso dela&lt;/p&gt;
+
+&lt;p&gt;Cabelos longos, olhos castanhos&lt;br /&gt;
+Pele branca como a neve&lt;br /&gt;
+Linda como o luar&lt;/p&gt;
+
+&lt;p&gt;Realmente garota&lt;br /&gt;
+Difícil é não se apaixonar&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Apr 2018 18:30:43 -0300</pubDate>
+        <link>http://localhost:4000/2018/04/30/rotina.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/04/30/rotina.html</guid>
         
         
       </item>
