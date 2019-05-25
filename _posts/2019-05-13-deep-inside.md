@@ -19,7 +19,7 @@ Mind fighting the heart
 Will I go mad  
 Just because we depart?  
   
-I walk wn a road alone  
+I walk in a road alone  
 Drowning in my fears  
 Isolated from the world within my mind  
 This has been one of the darkest places of the earth  
